@@ -3,8 +3,6 @@ image: registry.gitlab.com/islandoftex/images/texlive:latest
 build:
   script:
     - pdflatex nick_hirzel_resume.tex
-    - biber nick_hirzel_resume
-    - pdflatex nick_hirzel_resume.tex
   after_script:
     - cat nick_hirzel_resume.log
   artifacts:
