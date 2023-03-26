@@ -23,7 +23,7 @@
 }
 
 \titleformat{\section}
-    {\Large%
+    {\LARGE%
      \scshape%
      \raggedright}
     {}
@@ -43,6 +43,6 @@
 \titlespacing*{\subsection}
     {0em}
     {0.5em}
-    {-0.2em}
+    {0em}
 
 
