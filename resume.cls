@@ -13,7 +13,7 @@
 \RequirePackage{anyfontsize}
 \RequirePackage{ragged2e}
 
-\setlist[itemize]{before=\csname par\endcsname\raggedright, itemsep=-0.2em, leftmargin=1em, rightmargin=0em, partopsep=0pt}
+\setlist[itemize]{before=\csname par\endcsname\raggedright, itemsep=-0.35em, leftmargin=1em, rightmargin=0em, partopsep=0pt}
 \definecolor{linkcolor}{HTML}{000088}
 \hypersetup{
     colorlinks=true,
