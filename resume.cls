@@ -35,14 +35,14 @@
     {0.5em}
     {-0.225em}
 \titleformat{\subsection}
-    {\large\normalfont\scshape\raggedright}
+    {\bfseries\raggedright}
     {}
     {0em}
     {}
     []
 \titlespacing*{\subsection}
     {0em}
-    {0.5em}
+    {0em}
     {0em}
 
 
