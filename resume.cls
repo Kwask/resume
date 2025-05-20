@@ -10,6 +10,7 @@
 \RequirePackage{hyperref}
 \RequirePackage{xcolor}
 \RequirePackage{multirow}
+\RequirePackage{multicol}
 \RequirePackage{anyfontsize}
 \RequirePackage{ragged2e}
 
@@ -44,5 +45,3 @@
     {0em}
     {0em}
     {0em}
-
-
